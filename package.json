@@ -1,0 +1,23 @@
+{
+  "name": "p-book",
+  "version": "1.0.0",
+  "description": "个人电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuruiting1/p-book.git"
+  },
+  "author": "xuruiting1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuruiting1/p-book/issues"
+  },
+  "homepage": "https://github.com/xuruiting1/p-book#readme",
+  "devDependencies": {
+                "gitbook-cli": "^2.3.2"                                      
+  }
+
+}
